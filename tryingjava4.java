@@ -29,6 +29,7 @@ public class tryingjava4 {
 				System.out.println(" Then i shall call you Miss. " +name );
 		}
 		
-		
+		sc.close();
     }
+	
 }
